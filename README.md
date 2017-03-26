@@ -28,6 +28,7 @@ I have created this repo to declutter my stars and forks and have a neat and org
 * [bumptech/glide](https://github.com/bumptech/glide)
 * [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 * [nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+* [alamkanak/android-libraries-and-resources](https://github.com/alamkanak/android-libraries-and-resources)
 
 
 # Miscellaneous 
