@@ -8,3 +8,7 @@ I have created this repo to declutter my stars and forks and have a neat and org
 * [stfalcon/SMSVerifyCatcher](https://github.com/stfalcon-studio/SmsVerifyCatcher)
 * [brunocvcunha/instagramj](https://github.com/brunocvcunha/instagram4j)
 * [airbnb/lottie-android](https://github.com/airbnb/lottie-android)
+* [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
+* [daimajia/AndroidViewHover](https://github.com/daimajia/AndroidViewHover)
+* [txusballesteros/bubbles-for-android](https://github.com/txusballesteros/bubbles-for-android)
+* 
