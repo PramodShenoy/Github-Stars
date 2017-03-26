@@ -18,3 +18,17 @@ I have created this repo to declutter my stars and forks and have a neat and org
 * [google/exoPlayer](https://github.com/google/ExoPlayer)
 * [henrychuangtw/Android-ChatHead](https://github.com/henrychuangtw/Android-ChatHead)
 * [castorflex/SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar)
+* [wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
+* [gabrielemariotti/cardslib](https://github.com/gabrielemariotti/cardslib)
+* [emilsjolander/StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)
+* [ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
+* [navasmdc/MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary)
+* [facebook/fresco](https://github.com/facebook/fresco)
+* [square/picasso](https://github.com/square/picasso)
+* [bumptech/glide](https://github.com/bumptech/glide)
+* [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+* [nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+
+
+# Miscellaneous 
+* [MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection)
