@@ -31,6 +31,8 @@ I have created this repo to declutter my stars and forks and have a neat and org
 * [alamkanak/android-libraries-and-resources](https://github.com/alamkanak/android-libraries-and-resources)
 * [sdsmdg/RotatingText](https://github.com/sdsmdg/RotatingText)
 
+# Deep Learning and AI
+* [yunjey/pytorch tutorials](https://github.com/yunjey/pytorch-tutorial)
 
 # Miscellaneous 
 * [MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection)
